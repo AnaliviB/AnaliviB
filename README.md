@@ -1,16 +1,14 @@
-## Hi there 👋
+  ### Boas vindas ao meu perfil💙
 
-<!--
-**AnaliviB/AnaliviB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+ -Meu nome é Davi
+ -Estou estudando no [Alura] (https://www.alura.com.br)
+ -Estou me desenvolvendo na linguagem Javascript
+ -Utilizo este espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+ ### Você entra em contato comigo📫
+
+00001124341171SP@al.educacao.sp.gov.br
+
+![naruto 1](https://github.com/user-attachments/assets/5112847c-96db-450e-91ac-5c9b82fcd708)
